@@ -1,6 +1,6 @@
 # Domain Model for a School
 
-## Objectives
+## Obectives
 
 1. Define the concept of a domain model. 
 2. Create your own domain model. 
@@ -23,6 +23,7 @@ This lab is primarily test-driven. Use the test output, along with the guideline
 
 Create a class, School, in the `lib` directory that can be initialized with a name. The School class would be referred to as a "model" in the domain model context. 
 ```ruby
+
 school = School.new("Bayside High School")
 ```
 
